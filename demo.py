@@ -1,4 +1,4 @@
-names = ["Kilroy"]
+names = ["Kilroy", "David", "Amogus", "amogus", "Touhou", "The Touhou Club", "oirewjfijewjfijewfew", "sussy!!!!"]
 
 def main():
     for name in names:
